@@ -11,7 +11,7 @@ public class mainController {
     public String home()
     {
         System.out.println("hello");
-        return "sharang";
+        return "home.jsp";
     }
 
 }
